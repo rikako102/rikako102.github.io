@@ -1,0 +1,24 @@
+.teslatitle {
+	font-size: 220%;
+	margin-left: 4%;
+}
+
+.teslawords {
+	margin-left: 4.5%;
+	margin-top: -33px;
+/*	margin-right: 50%;*/
+	font-family: Lora;
+	font-size: 16.5px;
+	line-height: 170%
+}
+
+.teslapix img {
+	float: right;
+	width: 40%;
+	display: inline-block;
+	clear: right;
+	margin-right: 5%;
+	margin-bottom: 20px;
+	margin-left: 5%;
+}
+

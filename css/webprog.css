@@ -1,0 +1,26 @@
+.wptitle {
+	font-size: 220%;
+	margin-left: 4%;
+}
+
+.wpwords {
+	margin-left: 4%;
+	margin-top: -33px;
+	font-family: Lora;
+	font-size: 16.5px;
+	line-height: 170%
+}
+
+.wppix img {
+	float: right;
+	width: 40%;
+	display: inline-block;
+	clear: right;
+	margin-right: 5%;
+	margin-bottom: 20px;
+	margin-left: 5%;
+}
+
+.wp1 {
+	margin-top: -70px;
+} 

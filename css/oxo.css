@@ -1,0 +1,48 @@
+
+.oxotitle {
+	font-size: 220%;
+	margin-left: 4%;
+}
+
+.oxowords {
+	margin-left: 4.5%;
+	margin-top: -33px;
+	font-family: Lora;
+	font-size: 15px;
+	line-height: 170%
+}
+
+.oxopix img {
+	float: right;
+	width: 39%;
+	display: inline-block;
+	clear: right;
+	margin-right: 5%;
+	margin-bottom: 20px;
+	margin-left: 6%;
+}
+
+.oxopix {
+	margin-top
+}
+
+.ox1 {
+	margin-top: -70px;
+} 
+
+.ox2 {
+	transform: rotate(90deg);
+	margin-top: 70px;
+}
+
+.ox3 {
+	margin-top: 70px;
+}
+
+.ox4 {
+	transform: rotate(90deg);
+}
+
+.blurb {
+margin-right: 5%;
+}

@@ -1,0 +1,26 @@
+.lpztitle {
+	font-size: 220%;
+	margin-left: 4%;
+}
+
+.lpzwords {
+	margin-left: 4%;
+	margin-top: -33px;
+	font-family: Lora;
+	font-size: 16.5px;
+	line-height: 170%
+}
+
+.lpzpix img {
+	float: right;
+	width: 40%;
+	display: inline-block;
+	clear: right;
+	margin-right: 5%;
+	margin-bottom: 20px;
+	margin-left: 5%;
+}
+
+.lpz1 {
+	margin-top: -70px;
+} 

@@ -1,0 +1,93 @@
+.worktitle {
+  text-align: center;
+  font-family: Lora;
+  font-size: 500%
+}
+
+
+.mwtitle {
+  width: 24%;
+  margin-left: 38%;
+  margin-top: 10px;
+}
+
+.workpageheader {
+  width: 40%;
+}
+
+.projects {
+  display: inline-block;
+  margin: 20px 40px;
+  width: 300px;
+  height: 300px;
+}
+
+.oxo {
+	width: 300px;
+}
+
+.tesla {
+	width: 300px;
+}
+
+.glossier {
+  width: 300px;
+}
+
+.chair {
+	width: 300px;
+}
+
+.makergirl {
+  width: 300px;
+}
+
+.lpz {
+  width: 300px;
+}
+
+.diy {
+  width: 300px;
+}
+
+.webprog {
+  width: 300px;
+}
+
+.classes {
+  width: 300px;
+}
+
+.overlay {
+  display: inline-block;
+  position: relative;
+  left: 0;
+  margin-top: -300px;
+  top: -19px;
+  height: 300px;
+  width: 300px;
+  opacity: 0;
+  transition: .5s ease;
+  background-color: white;
+}
+
+.project-container {
+  text-align: center;
+  max-width: 1600px;
+  margin: auto;
+}
+
+.projects:hover .overlay {
+  opacity: 0.8;
+}
+
+.desc {
+  color: black;
+  font-size: 16px;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+  text-align: center;
+}

@@ -1,0 +1,71 @@
+.amtitle {
+	width: 22%;
+	margin-left: 38%;
+	margin-top: 20px;
+	margin-bottom: 20px;
+}
+
+.picofme {
+    width: 45%;
+    margin-right: 30px;
+    float: left;
+}
+
+.descriptiontext {
+	margin-top: 30px;
+	margin-right: 5%;
+	margin-left: 5%;
+	font-family: Rokkitt;
+	font-style: extra-light;
+	font-size: 110%;
+	line-height: 1.5
+
+}
+
+.fiffiimg {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	width: 25%;
+}
+
+.slackname {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	width: 20%;
+}
+
+.explanation {
+	text-align: center;
+	font-size: 90%;
+	margin-top: 5px;
+}
+
+.resume {
+	display: block;
+	font-family: Rokkitt;
+	font-size: 10px;
+}
+
+/*a:link {
+	color: black;
+}
+
+a:visited {
+	color: black;
+}
+
+a:hover {
+	color: blue;
+}
+*/
+
+/*.vl {
+    border-left: 1px solid black;
+    height: 2000px;
+    position: absolute;
+    left: 50%;
+    margin-left: -.5px;
+    top: 0;
+}*/

@@ -1,0 +1,104 @@
+.workpageheader {
+	width: 40%;
+	margin-left: 30px;
+}
+
+.glosstitle {
+	font-size: 220%;
+	margin-left: 4%;
+}
+
+.glossimage1 {
+	margin-top: 115px;
+}
+
+.glossimage2 {
+	margin-top: 200px;
+}
+
+/*.gloss1 {
+	width: 40%;
+	float: right;
+	margin-right: 6%;
+	margin-top: -33px;
+}
+
+.gloss2 {
+	width: 30%;
+	float: right;
+	margin-right: -432px;
+	margin-top: 420px;
+}*/
+
+.gloss2 {
+
+}
+
+.gloss1 {
+	margin-top: -70px;
+}
+
+.glosspix img {
+	float: right;
+	width: 35%;
+	display: inline-block;
+	clear: right;
+	margin-right: 8%;
+	margin-bottom: 20px;
+	margin-left: 6%;
+}
+
+.glosswords {
+	margin-left: 4.5%;
+	margin-top: -33px;
+	font-family: Lora;
+	font-size: 15px;
+	line-height: 170%
+}
+
+.glosswords2 {
+	margin-left: 4.5%;
+	margin-right: 52%;
+	font-size: 17px;
+	line-height: 150%
+}
+
+.glossprojects {
+
+}
+
+.glossproblem {
+	background-color: rgb(251,225,225, 0.9);
+	margin-left: -5%;
+	padding-left: 5%;
+}
+
+.problemhead {
+	font-weight: bolder;
+	font-size: 20px;
+}
+
+.date {
+	
+}
+
+.blurb {
+
+}
+
+a.link {
+	color: red;
+}
+
+a.hover {
+	color: blue;
+}
+
+/*.vl {
+    border-left: 1px solid black;
+    height: 2000px;
+    position: absolute;
+    left: 50%;
+    margin-left: -.5px;
+    top: 0;
+}*/
