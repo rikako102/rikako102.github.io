@@ -1,14 +1,31 @@
-.furnwords {
-	margin-left: 4.5%;
-	margin-top: -33px;
-	margin-right: 50%;
-	font-family: Lora;
-	font-size: 16.5px;
-	line-height: 170%
-}
-
 .furntitle {
 	font-size: 220%;
 	margin-left: 4%;
 }
 
+.furnwords {
+	margin-left: 4.5%;
+	margin-top: -33px;
+	font-family: Lora;
+	font-size: 15px;
+	line-height: 170%
+}
+
+.furnpix img {
+	float: right;
+	width: 39%;
+	display: inline-block; 
+	clear: right;
+	margin-right: 5%;
+	margin-bottom: 20px;
+	margin-left: 6%;
+}
+
+.furn0 {
+	margin-top: -70px;
+}
+
+.furn4 {
+	width:20%;
+	float: left;
+}

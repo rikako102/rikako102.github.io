@@ -1,4 +1,3 @@
-
 .oxotitle {
 	font-size: 220%;
 	margin-left: 4%;
@@ -15,7 +14,7 @@
 .oxopix img {
 	float: right;
 	width: 39%;
-	display: inline-block;
+	display: inline-block; 
 	clear: right;
 	margin-right: 5%;
 	margin-bottom: 20px;

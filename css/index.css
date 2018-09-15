@@ -1,8 +1,10 @@
 body {
 	margin:0;
-	background: #F5FAFF; #FDF7E0; #ddf2f4;
+	background: #e0e9d9; #F5FAFF; #FDF7E0; #ddf2f4;
 	font-family: Lato;
 }
+
+/*https://as2.ftcdn.net/jpg/01/05/22/71/500_F_105227112_Z999squii8SdjNT9F82ohuLte4mGXmFx.jpg*/
 
 .header {
 	padding-top: 10px;
@@ -73,24 +75,25 @@ span {
 	margin-left: 1%;
 }
 
+
 a.button {
 	position: relative;
-	background-color: #FAE397;
+	background-color: #eac06c;#FAE397;
 	color: black;
 	border: 2px solid black;
 	text-align: center;
 	text-decoration: none;
 	display: inline-block;
-	font-size: 20px;
+	font-size: 18px;
 	margin: 20px 5px;
 	padding: 5px 20px;
 	transition-duration: 0.4s;
 	cursor: pointer;
-	border-radius: 20px;
+	border-radius: 10px;
 }
 
 a.button:hover {
-	background-color: #81C4CF;
+	background-color: #FAF3C5;#81C4CF;
 	color: black;
 }
 
