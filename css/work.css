@@ -1,14 +1,18 @@
 .worktitle {
   text-align: center;
-  font-family: Lora;
+  font-family: Source Sans Pro;
   font-size: 500%
 }
-
 
 .mwtitle {
   width: 24%;
   margin-left: 38%;
   margin-top: 10px;
+}
+
+.temp {
+  text-align: center;
+  font-size: 500%;
 }
 
 .workpageheader {
@@ -63,7 +67,7 @@
   position: relative;
   left: 0;
   margin-top: -300px;
-  top: -19px;
+  top: -20px;
   height: 300px;
   width: 300px;
   opacity: 0;

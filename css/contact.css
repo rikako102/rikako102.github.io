@@ -5,9 +5,18 @@
 }
 
 .iphone {
-	width: 24.3%;
 	margin-left: 38%;
 	margin-top: 30px;
+}
+
+.afa {
+
+	margin-left: 38%;
+	margin-top: 30px;
+}
+
+.hyperlinks {
+	background-color: blue;
 }
 
 /*.vl {
@@ -17,4 +26,8 @@
     left: 50%;
     margin-left: -.5px;
     top: 0;
-}*/
+}
+
+
+
+1240*/

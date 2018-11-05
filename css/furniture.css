@@ -29,3 +29,11 @@
 	width:20%;
 	float: left;
 }
+
+.furn2{
+	transform: rotate(90deg);
+}
+
+.furn10 {
+	transform: rotate(90deg);
+}
