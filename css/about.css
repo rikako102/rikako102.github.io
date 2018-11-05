@@ -1,6 +1,6 @@
 .amtitle {
 	width: 25%;
-	margin-right: 4%;
+	margin-right: 20%;
 	margin-top: 40px;
 	margin-bottom: 20px;
 	background-color:;
@@ -18,7 +18,7 @@
 }
 
 .descriptiontext {
-	margin-top: 200px;
+	margin-top: 180px;
 	margin-right: 5%;
 	margin-left: 5%;
 	font-family: Source Sans Pro;
@@ -29,12 +29,12 @@
 
 .resume {
 	margin-top: 50px;
-	display: block;
+	margin-right: 500px;
 	font-family: Source Sans Pro;
 }
 
 a.buttonab {
-	margin-left: 5%;
+	margin-left:;
 	position: relative;
 	background-color: white;
 	color: #333333;

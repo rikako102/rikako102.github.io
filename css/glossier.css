@@ -6,23 +6,36 @@
 .glosswords {
 	margin-left: 4.5%;
 	margin-top: -33px;
-	font-family: Lora;
-	font-size: 15px;
-	line-height: 170%
+	font-family: Source Sans Pro;
+	font-size: 18px;
+	line-height: 170%;
+	margin-right: 5%;
 }
 
-.glosspix img {
+/*.glosspix img {
 	float: right;
 	width: 35%;
-	display: inline-block;
 	clear: right;
 	margin-right: 8%;
 	margin-bottom: 20px;
 	margin-left: 6%;
-}
+}*/
 
 .gloss1 {
-	margin-top: -70px;
+	margin-top: -15%;
+	float: right;
+	width: 35%;
+	margin-right: 35%;
+	margin-bottom: 20px;
+	margin-left: 5%;
+
+}
+
+.gloss2 {
+	width: 35%;
+	margin-right: 5%;
+	float: left;
+	margin-top:;
 }
 
 .glossproblem {
@@ -37,6 +50,11 @@ a.link {
 
 a.hover {
 	color: blue;
+}
+
+.glossprojects {
+	margin-top: px;
+	float: right;
 }
 
 /*.vl {
