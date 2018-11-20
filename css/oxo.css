@@ -1,14 +1,30 @@
+ul {
+	list-style-position: inside;
+}
+
 .oxotitle {
-	font-size: 220%;
-	margin-left: 4%;
+	font-size: 190%;
+	margin-left: 10%;
+	margin-right: 10%;
+	color: #333333;
+}
+
+.oxotitle a {
+	border-bottom:3px solid #eac06c;
+}
+
+.date {
+	margin-top: 50px;
+	font-size: 175%;
 }
 
 .oxowords {
-	margin-left: 4.5%;
-	margin-top: -33px;
-	font-family: Lora;
-	font-size: 15px;
-	line-height: 170%
+	margin-left: 10%;
+	margin-top: -40px;
+	font-family: Source Sans Pro;
+	font-size: 16px;
+	line-height: 170%;
+	margin-right: 10%;
 }
 
 .oxopix img {
@@ -21,17 +37,53 @@
 	margin-left: 6%;
 }
 
+.block1 {
+	margin-top: 5%; 
+	background-color: ;
+}
+
+.block1text {
+	margin-top: %;
+	background-color: ;
+}
+
 .oxopix {
 	margin-top
 }
 
 .ox1 {
-	margin-top: -70px;
+	width: 100%;
+	margin-right: 5%;
+	float: left;
+	margin-bottom: 2%;
 } 
 
+.captionedpic {
+	width: 50%;
+	display: block;
+	float: left;
+	background-color: ;
+	margin-right: 5%;
+}
+
+.caption {
+	margin-top:-1%;
+	width: 100%;
+	font-size:14.5px;
+}
+
+.block2 {
+
+}
+
+.block2text {
+	margin-top: 20%;
+}
+
 .ox2 {
-	transform: rotate(90deg);
-	margin-top: 70px;
+	width: 40%;
+	float: right;
+	margin-left: 5%;
 }
 
 .ox3 {
@@ -42,6 +94,26 @@
 	transform: rotate(90deg);
 }
 
-.blurb {
-margin-right: 5%;
+.whatelse {
+	margin-top: 10%;
 }
+
+.o1 {
+	margin-left: 3%;
+}
+
+.o2 {
+	margin-left: 6%;
+}
+
+.o3 {
+	margin-left: 9%;
+	width: 100%;
+}
+
+.o4 {
+	width: 57%;
+}
+
+
+

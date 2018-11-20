@@ -1,14 +1,21 @@
 .furntitle {
-	font-size: 220%;
-	margin-left: 4%;
+	font-size: 190%;
+	margin-left: 10%;
+	margin-right: 10%;
+	color: #333333;
+}
+
+.furntitle a {
+	border-bottom:3px solid #eac06c;
 }
 
 .furnwords {
-	margin-left: 4.5%;
-	margin-top: -33px;
-	font-family: Lora;
-	font-size: 15px;
-	line-height: 170%
+	margin-left: 10%;
+	margin-top: -40px;
+	font-family: Source Sans Pro;
+	font-size: 16px;
+	line-height: 170%;
+	margin-right: 10%;
 }
 
 .furnpix img {
@@ -22,7 +29,10 @@
 }
 
 .furn0 {
-	margin-top: -70px;
+	width: 35%;
+	margin-right: 5%;
+	float: left;
+	margin-top:;
 }
 
 .furn4 {
@@ -36,4 +46,13 @@
 
 .furn10 {
 	transform: rotate(90deg);
+}
+
+ul {
+	list-style-position: inside;
+}
+
+.date {
+	margin-top: 50px;
+	font-size: 175%;
 }

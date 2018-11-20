@@ -1,41 +1,86 @@
 .glosstitle {
-	font-size: 220%;
-	margin-left: 4%;
+	font-size: 190%;
+	margin-left: 10%;
+	margin-right: 10%;
+	margin-top: 5%;
+	color: #333333;
+}
+
+.glosstitle a {
+	border-bottom:3px solid #eac06c;
+}
+
+a, button {
+	transition: 0.48s border-bottom-color ease-out;
 }
 
 .glosswords {
-	margin-left: 4.5%;
-	margin-top: -33px;
+	margin-left: 10%;
+	margin-top: -40px;
 	font-family: Source Sans Pro;
-	font-size: 18px;
+	font-size: 16px;
 	line-height: 170%;
-	margin-right: 5%;
+	margin-right: 10%;
 }
 
-/*.glosspix img {
-	float: right;
-	width: 35%;
-	clear: right;
-	margin-right: 8%;
-	margin-bottom: 20px;
-	margin-left: 6%;
-}*/
+.blurb {
+
+	width: 85%;
+}
 
 .gloss1 {
-	margin-top: -15%;
-	float: right;
-	width: 35%;
-	margin-right: 35%;
-	margin-bottom: 20px;
-	margin-left: 5%;
-
-}
-
-.gloss2 {
 	width: 35%;
 	margin-right: 5%;
 	float: left;
 	margin-top:;
+}
+
+.gloss2 {
+	float: right;
+	width: 35%;
+	margin-bottom: ;
+	margin-top: %;
+	margin-left: 5%;
+	background-color: ;
+}
+
+.block2 {
+	margin-top: 20%;
+	background-color:;
+}
+
+.glossprojects {
+	width: 50%;
+	margin-top: 5%;
+	float: left;
+	margin-left: 10%;
+	background-color: ;
+}
+
+.block1 {
+	margin-top: 5%; 
+	background-color: ;
+}
+
+.gloss3 {
+	margin-right: 5%;
+	float: left;
+	width: 30%;
+	margin-top: -3%;
+}
+
+.block3 {
+	margin-top: 70%;
+	background-color:;
+}
+
+.moreglossier {
+	margin-top: 220px;
+	margin-right: 5%;
+}
+
+.whatelse {
+	margin-top: 10%;
 }
 
 .glossproblem {
@@ -44,17 +89,13 @@
 	padding-left: 5%;
 }
 
-a.link {
-	color: red;
+ul {
+	list-style-position: inside;
 }
 
-a.hover {
-	color: blue;
-}
-
-.glossprojects {
-	margin-top: px;
-	float: right;
+.date {
+	margin-top: 50px;
+	font-size: 175%;
 }
 
 /*.vl {
@@ -64,4 +105,5 @@ a.hover {
     left: 50%;
     margin-left: -.5px;
     top: 0;
-}*/
+}
+*/

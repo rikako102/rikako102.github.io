@@ -1,13 +1,19 @@
 .teslatitle {
-	font-size: 220%;
-	margin-left: 4%;
+	font-size: 190%;
+	margin-left: 10%;
+	margin-right: 10%;
+	color: #333333;
 }
 
+.teslatitle a {
+	border-bottom:3px solid #eac06c;
+}
 .teslawords {
-	margin-left: 4.5%;
-	margin-top: -33px;
-	font-family: Lora;
-	font-size: 15px;
+	margin-left: 10%;
+	margin-right: 10%;
+	margin-top: -40px;
+	font-family: Source Sans Pro;
+	font-size: 16px;
 	line-height: 170%
 }
 
@@ -16,11 +22,46 @@
 	width: 39%;
 	display: inline-block; 
 	clear: right;
-	margin-right: 5%;
+	margin-right: 10%;
 	margin-bottom: 20px;
 	margin-left: 6%;
 }
 
 .tesla1 {
-	margin-top: -70px;
+	width: 100%;
+	margin-right: 5%;
+	float: left;
+	margin-top:;
+} 
+
+.tesla2 {
+	width: 60%;
+	float: right;
+	margin-left: 5%;
+}
+.date {
+	margin-top: 50px;
+	font-size: 175%;
+}
+
+.block2 {
+	margin-top: 15%;
+}
+
+.captionedpic {
+	width: 50%;
+	display: block;
+	float: left;
+	background-color: ;
+	margin-right: 5%;
+}
+
+.caption {
+	margin-top:-1%;
+	width: 100%;
+	font-size:14.5px;
+}
+
+.whatelse {
+	margin-top: 10%;
 }

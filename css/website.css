@@ -1,15 +1,18 @@
-.mgtitle {
+.wptitle {
 	font-size: 190%;
 	margin-left: 10%;
 	margin-right: 10%;
 	color: #333333;
 }
 
-.mgtitle a {
+.wptitle a {
 	border-bottom:3px solid #eac06c;
 }
 
-.mgwords {
+a, button {
+	transition: 0.48s border-bottom-color ease-out;
+}
+.wpwords {
 	margin-left: 10%;
 	margin-top: -40px;
 	font-family: Source Sans Pro;
@@ -18,7 +21,7 @@
 	margin-right: 10%;
 }
 
-.mgpix img {
+.wppix img {
 	float: right;
 	width: 40%;
 	display: inline-block;
@@ -28,18 +31,11 @@
 	margin-left: 5%;
 }
 
-.mg1 {
-	width: 50%;
-	margin-right: 5%;
-	float: left;
-	margin-top:;
+.wp1 {
+	margin-top: -70px;
 } 
 
 .date {
 	margin-top: 50px;
 	font-size: 175%;
-}
-
-ul {
-	list-style-position: inside;
 }
