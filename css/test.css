@@ -1,4 +1,6 @@
-/*#Layer_1 {
+/* Script Writing //////
+
+#Layer_1 {
 	margin-left: 4%;
 	margin-top: 2.5%;
 	width: 35%;
@@ -17,8 +19,9 @@
   to {
     stroke-dashoffset: 0;
   }
-}*/
+}
 
+///////*/
 
 .header {
 	padding-bottom: 15px;
@@ -32,7 +35,6 @@
 	font-style: italic;
 }
 
-///////////////////////////////////////////////////
 
 .body {
 	display: inline-block;
@@ -51,12 +53,6 @@
     font-family: Source Sans Pro;
 }
 
-/*.navigation {
-	margin-left: 5%;
-	margin-top: 130px;
-	background-color: ;
-}*/
-
 #descr {
 	font-size: 48px;
 	margin-left: 3.8%;
@@ -71,6 +67,8 @@ a {
 	text-decoration: none;
 }
 
+/* Typing Text */
+
 span {
   border-right: .05em solid;
   animation: caret 1s steps(1) infinite;
@@ -81,6 +79,8 @@ span {
     border-color: transparent;
   }
 }
+
+/* Appearing text */
 
 .hide{
 	display:none;
@@ -94,7 +94,9 @@ span {
 	color: #333333;
 }
 
-/*a.button {
+/*
+Button colors
+a.button {
 	position: relative;
 	background-color: white;
 	color: #333333;

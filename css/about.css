@@ -1,7 +1,11 @@
+.abme {
+	margin-top: 5%;
+}
+
 .amtitle {
-	width: 25%;
-	margin-right: 20%;
-	margin-top: 40px;
+	width: 22%;
+	margin-right: 23%;
+	margin-top:px;
 	margin-bottom: 20px;
 	background-color:;
 	float: right;
@@ -11,14 +15,11 @@
     width: 45%;
     margin-right: 5%;
     margin-left: 5%;
-    margin-top: 50px;
+    margin-top: px;
     float: left;
-    background-color: ;
-    border-radius: ;
 }
 
 .descriptiontext {
-	margin-top: 180px;
 	margin-right: 5%;
 	margin-left: 5%;
 	font-family: Source Sans Pro;
