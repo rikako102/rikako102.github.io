@@ -18,28 +18,78 @@
 	margin-right: 10%;
 }
 
-.mgpix img {
+.girls {
+	width: 30%;
 	float: right;
-	width: 40%;
-	display: inline-block;
-	clear: right;
-	margin-right: 5%;
-	margin-bottom: 20px;
-	margin-left: 5%;
+	margin-top: 5%;
+	margin-bottom: 2%;
+	margin-left: 3%;
 }
 
 .mg1 {
-	width: 50%;
+	width: 45%;
 	margin-right: 5%;
 	float: left;
-	margin-top:;
+	margin-bottom:;
 } 
+
+.mg2 {
+	float: right;
+	width: 50%;
+	margin-bottom: 5%;
+	margin-left: 5%;
+}
+
+.mg3 {
+	float: left;
+	width: 30%;
+	margin-right: 3%;
+	margin-bottom: 10%;
+}
+
+.mg4 {
+	float: right;
+	width: 30%;
+	margin-left: 3%;
+	margin-top: 5%;
+}
+
+.mg5 {
+	float: left;
+	width: 25%;
+	margin-right: 2%;
+}
+
+.mg6 {
+	float: left;
+	width: 30%;
+	margin-right: 3%;
+	margin-top:5%;
+}
+
+.block2 {
+ 	margin-top: 20%;
+ 	margin-left: 5%;
+ 	margin-right: %;
+}
+
+.block3 {
+	margin-top: 10%;
+}
 
 .date {
 	margin-top: 50px;
 	font-size: 175%;
 }
 
-ul {
+.blurb {
+
+}
+
+/*ul {
 	list-style-position: inside;
+}
+*/
+.block4{
+	margin-top: 35%;
 }

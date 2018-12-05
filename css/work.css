@@ -10,11 +10,6 @@
   margin-top: 10px;
 }
 
-.temp {
-  text-align: center;
-  font-size: 500%;
-}
-
 .workpageheader {
   width: 40%;
 }
@@ -95,4 +90,3 @@
   -ms-transform: translate(-50%, -50%);
   text-align: center;
 }
-

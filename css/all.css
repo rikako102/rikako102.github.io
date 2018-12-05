@@ -80,7 +80,6 @@ body {
 	width: 100%;
 }
 
-
 a:link {
 	text-decoration: none;
 	color: black;
@@ -89,4 +88,15 @@ a:link {
 a:visited {
 	text-decoration: none;
 	color: black;
+}
+
+.workicons {
+  text-align: center;
+  width: 70%;
+  margin: 0 auto;
+  margin-top: 5%;
+}
+
+.workiconsimg {
+  max-width: 100%;
 }

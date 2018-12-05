@@ -27,16 +27,6 @@ ul {
 	margin-right: 10%;
 }
 
-.oxopix img {
-	float: right;
-	width: 39%;
-	display: inline-block; 
-	clear: right;
-	margin-right: 5%;
-	margin-bottom: 20px;
-	margin-left: 6%;
-}
-
 .block1 {
 	margin-top: 5%; 
 	background-color: ;
@@ -47,16 +37,20 @@ ul {
 	background-color: ;
 }
 
-.oxopix {
-	margin-top
-}
-
 .ox1 {
 	width: 100%;
 	margin-right: 5%;
 	float: left;
 	margin-bottom: 2%;
 } 
+
+.soap {
+	float: right;
+	width: 10%;
+	transform: rotate(25deg);
+	margin-right: -7%;
+	margin-top:2%;
+}
 
 .captionedpic {
 	width: 50%;
@@ -77,21 +71,13 @@ ul {
 }
 
 .block2text {
-	margin-top: 20%;
+	margin-top: 15%;
 }
 
 .ox2 {
 	width: 40%;
 	float: right;
 	margin-left: 5%;
-}
-
-.ox3 {
-	margin-top: 70px;
-}
-
-.ox4 {
-	transform: rotate(90deg);
 }
 
 .whatelse {

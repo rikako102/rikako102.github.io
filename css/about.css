@@ -7,7 +7,6 @@
 	margin-right: 23%;
 	margin-top:px;
 	margin-bottom: 20px;
-	background-color:;
 	float: right;
 }
 
@@ -21,9 +20,7 @@
 
 .descriptiontext {
 	margin-right: 5%;
-	margin-left: 5%;
 	font-family: Source Sans Pro;
-	font-style: extra-light;
 	font-size: 110%;
 	line-height: 1.5
 }

@@ -1,3 +1,7 @@
+ul {
+	list-style-position: inside;
+}
+
 .glosstitle {
 	font-size: 190%;
 	margin-left: 10%;
@@ -24,7 +28,6 @@ a, button {
 }
 
 .blurb {
-
 	width: 85%;
 }
 
@@ -32,29 +35,40 @@ a, button {
 	width: 35%;
 	margin-right: 5%;
 	float: left;
-	margin-top:;
+}
+
+.glossprojects {
+	margin-top: 5%;
+	float: left;
+	margin-left: %;
+	background-color:;
 }
 
 .gloss2 {
 	float: right;
 	width: 35%;
 	margin-bottom: ;
-	margin-top: %;
+	margin-top: -5%;
 	margin-left: 5%;
 	background-color: ;
 }
 
-.block2 {
-	margin-top: 20%;
-	background-color:;
+.boybrow {
+	float: right;
+	width: 20%;
+	margin-right: 5%;
 }
 
-.glossprojects {
-	width: 50%;
+.geng {
+	width: 11%;
+	float: right;
 	margin-top: 5%;
-	float: left;
-	margin-left: 10%;
-	background-color: ;
+	margin-right: 10%;
+}
+
+.block2 {
+	margin-top: 30%;
+	background-color:;
 }
 
 .block1 {
@@ -67,10 +81,11 @@ a, button {
 	float: left;
 	width: 30%;
 	margin-top: -3%;
+	margin-bottom: 2%
 }
 
 .block3 {
-	margin-top: 70%;
+	margin-top: 30%;
 	background-color:;
 }
 
@@ -87,10 +102,6 @@ a, button {
 	background-color: rgb(251,225,225, 0.9);
 	margin-left: -5%;
 	padding-left: 5%;
-}
-
-ul {
-	list-style-position: inside;
 }
 
 .date {
