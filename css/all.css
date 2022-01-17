@@ -1,18 +1,14 @@
-body {
+/*body {
 	width: 100wh;
 	height: 90vh;
-	color: #;
-	background: linear-gradient(32deg, #D4EAC3, #fef3f1, #ffe076 );
-	/* burgundy, gray, mint, blue, yellow , #c67676*/
-	background-size: 600% 600%;
-	-webkit-animation: Gradient 15s linear infinite;
-	-moz-animation: Gradient 15s linear infinite;
-	animation: Gradient 15s linear infinite;
-	margin:0;
+	background-color: #99ad92;
+	background: linear-gradient(32deg, #D4EAC3, #fef3f1, #ffe076 );*/
+	/* burgundy, gray, mint, blue, yellow , #c67676
+/*	background-size: 600% 600%;
 	font-family: Source Sans Pro;
-}
+}*/
 
-@-webkit-keyframes Gradient {
+/*@-webkit-keyframes Gradient {
 	0% {
 		background-position: 0% 50%
 	}
@@ -46,11 +42,11 @@ body {
 	100% {
 		background-position: 0% 50%
 	}
-}
+}*/
 
 ///////////////////////////////////////////////////
 
-.header {
+/*.header {
 	padding-top: 10px;
 	padding-bottom: 15px;
 }
@@ -67,20 +63,28 @@ body {
 	font-size: 16px;
 	margin-top: 3.3%;
 	margin-right: 5%;
-	font-style: italic;
+	font-style: italic;*/
 }
 
 .myinfo {
-	margin-top: 5%;
+	position: fixed;
+	left: 0;
+	bottom: 0;
+	width: 100%;
+	color: black;
+	text-align: center;
+	font-size: 13px;
+	color: #deedee;
+	/*margin-top: 5%;
 	padding-top: 10px;
 	padding-bottom: 10px;
 	margin-bottom: 0px;
 	text-align: center;
 	font-size: 13px;
-	width: 100%;
+	width: 100%;*/
 }
 
-a:link {
+/*a:link {
 	text-decoration: none;
 	color: black;
 }
@@ -99,4 +103,4 @@ a:visited {
 
 .workiconsimg {
   max-width: 100%;
-}
+}*/

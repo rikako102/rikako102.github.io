@@ -1,3 +1,70 @@
+@font-face { font-family: Leky; src: url('LekyCalgria.ttf'); }
+body {
+	font-family: Leky;
+	background-color: #99ad92;
+}
+
+.header {
+/*	border: 3px solid green;
+*/	color: white;
+	font-size: 13pt;
+	text-align: center;
+}
+
+.main{
+/*	border: 3px solid green;
+*/	color: white;
+    text-align: center;
+    margin-top: 5%;
+}
+
+.bigwords{
+/*	border: 3px solid blue;
+*/	font-size: 40pt;
+	line-height: 1.8;
+}
+
+p {
+	margin: 0;
+	height: auto;
+}
+
+.smallerwords{
+/*	border: 3px solid pink;
+*/	padding: 0;
+	font-size: 20pt;
+	color: white;
+	height: auto;
+	position: relative;
+}
+
+.navigation {
+	/*	border: 3px solid pink;
+*/  margin-top: 20px;
+	text-align: center;
+}
+
+a {
+	text-decoration: none;
+	border: 2px solid white;
+	position: relative;
+	color: white;
+	text-align: center;
+	display: inline-block;
+	font-size: 12px;
+	margin-left: 10px;
+	margin-right: 10px;
+	padding: 1px 10px;
+	transition-duration: 0.4s;
+	cursor: pointer;
+}
+
+a:hover {
+	background-color: #eac06c;
+	color: #333333;
+}
+
+//////////////////////////////////////////////////
 /*#Layer_1 {
 	margin-left: 4%;
 	margin-top: 2.5%;
@@ -19,36 +86,33 @@
   }
 }*/
 
-
-.header {
-	padding-bottom: 15px;
-}
-
-.pages {
-	float: right;
-	font-size: 16px;
+/*.top {
+	float: left;
+	font-size: 30px;
 	margin-top: 3.3%;
 	margin-right: 5%;
+	margin-left: 5%;
 	font-style: italic;
-}
+	color: #deedee;
+}*/
 
-///////////////////////////////////////////////////
 
-.body {
+/*.body {
 	display: inline-block;
 	overflow: hidden;
-}
+	background-color: #deedee;
+}*/
 
-.words {
+/*.words {
     position: relative;
-}
+}*/
 
-.hiimrika {
+/*.hiimrika {
 	margin-top: 10%;
     font-size: 50px;
     color: #333333;
     margin-left: 5%;
-    font-family: Source Sans Pro;
+    font-family: Source Sans Pro;*/
 }
 
 /*.navigation {
@@ -57,7 +121,7 @@
 	background-color: ;
 }*/
 
-#descr {
+/*#descr {
 	font-size: 48px;
 	margin-left: 3.8%;
 	margin-top: -14%;
@@ -69,9 +133,9 @@
 a {
 	color: #333333;
 	text-decoration: none;
-}
+}*/
 
-span {
+/*span {
   border-right: .05em solid;
   animation: caret 1s steps(1) infinite;
 }
@@ -80,9 +144,9 @@ span {
   50% {
     border-color: transparent;
   }
-}
+}*/
 
-.hide{
+/*.hide{
 	display:none;
 }
 
@@ -92,7 +156,7 @@ span {
 	left: 1.5%;
 	top: 130px;
 	color: #333333;
-}
+}*/
 
 /*a.button {
 	position: relative;
@@ -113,7 +177,7 @@ span {
 a.button:hover {
 	background-color: #eac06c;
 	color: #333333;
-}*/
+}
 
 .myinfo {
 	position: fixed;
@@ -123,4 +187,6 @@ a.button:hover {
 	color: black;
 	text-align: center;
 	font-size: 13px;
+	color: #99ad92;
 }
+*/
